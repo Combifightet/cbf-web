@@ -1,0 +1,73 @@
+[[mine]]
+file = 'cbf.gif'
+href = '/'
+alt = 'Combifightet 88x31'
+
+# ------------------------------------------------------------------------------
+# friends
+
+[[badges]]
+file = ''
+href = 'https://christos.lachanase.de/'
+alt = 'Christos Lachanas 88x31'
+
+# interests
+
+[[badges]]
+file = 'minecraft.png'
+href = 'https://minecraft.net'
+alt = 'Minecraft 88x31'
+
+[[badges]]
+file = 'steam.gif'
+href = 'https://store.steampowered.com/'
+alt = 'Play with Steam 88x31'
+
+[[badges]]
+file = 'fedora.ong'
+href = 'https://fedoraproject.org/'
+alt = 'Fedora Linux 88x31'
+
+[[badges]]
+file = 'godot.png'
+href = 'https://godotengine.org/'
+alt = 'Godot Game Engine 88x31'
+
+[[badges]]
+file = 'blender.gif'
+href = 'https://www.blender.org/'
+alt = 'download blender 88x31'
+
+# for this website
+
+[[badges]]
+file = 'firefox.gif'
+href = 'https://www.firefox.com/'
+alt = 'Tested on Firefox 88x31'
+
+[[badges]]
+file = 'visual_studio_code.gif'
+href = 'https://code.visualstudio.com/'
+alt = 'Visual Studio Code 88x31'
+
+[[badges]]
+file = 'paint_net.gif'
+href = 'https://paint.net/'
+alt = 'Made with paint.net 88x31'
+
+[[badges]]
+file = 'aseprite.gif'
+href = 'https://aseprite.org/'
+alt = 'Drawn with aseprite 88x31'
+
+# other
+
+[[badges]]
+file = 'eightyeightthirty.png'
+href = 'https://eightyeightthirty.one/'
+alt = 'eightyeightthirty.one 88x31'
+
+[[badges]]
+file = 'archive.gif'
+href = 'https://archive.org/'
+alt = 'Internet Archive 88x31'
