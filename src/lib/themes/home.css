@@ -1,0 +1,53 @@
+
+/* https://monaspace.githubnext.com/ */
+@font-face {
+  font-family: 'Monaspace Neon';  /*Noe-grotesque sans */
+  src: url('../fonts/Monaspace Neon Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Monaspace Argon';  /*Humanist sans */
+  src: url('../fonts/Monaspace Argon Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Monaspace Xenon';  /*Slab serif */
+  src: url('../fonts/Monaspace Xenon Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Monaspace Radon';  /*Handwriting */
+  src: url('../fonts/Monaspace Radon Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Monaspace Krypton';  /*Mechanical sans */
+  src: url('../fonts/Monaspace Krypton Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+
+body {
+  --bg: #efeae1;
+  --fg: #574c4f;
+
+  background-color: var(--bg);
+  color: var(--fg);
+  font-family: 'Monaspace Argon', monospace;
+}
+
+
+body.dark {
+  --bg: #343233;
+  --fg: #efdab9;
+}

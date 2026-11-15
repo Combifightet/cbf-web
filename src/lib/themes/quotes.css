@@ -1,0 +1,60 @@
+/* for reference: https://x.com/instance_11 */
+
+
+
+/* https://monaspace.githubnext.com/ */
+
+@font-face {
+  font-family: 'Monaspace Xenon';  /*Slab serif */
+  src: url('../fonts/Monaspace Xenon Var.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* https://fonts.google.com/specimen/Newsreader?preview.script=Latn */
+/* TODO: sshould convert these fonts to woff2 for compression */
+@font-face {
+  font-family: 'Newsreader';
+  src: url('/fonts/Newsreader-Variable.ttf') format('truetype');
+  font-weight: 200 800;   /* the weight range enables the variable axis */
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Newsreader';
+  src: url('/fonts/Newsreader-Italic-Variable.ttf') format('truetype');
+  font-weight: 200 800;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+
+body {
+  --bg: #d6d6d8;
+  --fg: #010101;
+  --paper_texture: url(../assets/quotes/seamless_paper_light.jpg);
+
+  background-color: var(--bg);
+  color: var(--fg);
+  background-image: var(--paper_texture);
+  background-repeat: repeat;
+
+  /* font-family: 'Monaspace Xenon', monospace; */
+  font-family: 'Newsreader', Georgia, serif;
+}
+
+
+body.dark{
+  --bg: #08080a;
+  --fg: #d6d6d8;
+  --paper_texture: url(../assets/quotes/seamless_paper_dark.jpg);
+}
+
+
+/* ink bleed effects */
+:where(h1, h2, h3, h4, h5, h6, p, li, blockquote, a, span, label, figcaption) {
+  filter: blur(0.35px);
+  text-shadow: 0 0 1.2px currentColor;
+}
