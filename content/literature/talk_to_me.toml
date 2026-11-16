@@ -1,0 +1,28 @@
+author = "Shreya Maurya"
+source = "Was von uns übrig ist"
+sourceType = "book"
+type = "poem"
+originalLanguage = "de"
+dateCreated = 2023-04-18
+dateCollected = 2025-03-17T23:54:22
+
+[translations.de]
+title = "Sprich mit mir"
+text = '''
+Sprich mit mir,
+wie du mit
+dem dunklen
+und leeren Raum
+um 3 Uhr
+morgens sprichst,
+frei und ehrlich.'''
+
+[translations.en]
+title = "Talk to me"
+text = '''
+Talk to me,
+the way you talk
+to the dark
+and empty room
+at 3 a.m.,
+freely and honestly.'''

@@ -13,7 +13,7 @@ my personal home page
   - **art gallery**
     - posters, blender projects, other stuff
     - the user can "traverse" the museum or search for stuff by keywords / filters
-  - **quotes/literature**
+  - **literature**
     - designed like an old book
   - **recepies**
     - allow for automatic imperial / metric conversion and portion calculator
@@ -34,8 +34,9 @@ my personal home page
 - clean modern asthetic
 - side information of medium, creation date, and so on ...
 
-## Quotes
+## Literature
 
 - gothic book like "black and white" with half tones
+- Reference: <https://x.com/instance_11/>
 
 ## Recepies

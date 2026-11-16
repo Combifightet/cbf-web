@@ -1,0 +1,27 @@
+author = ""
+source = ""
+sourceType = "instagram"
+type = "poem"
+originalLanguage = "de"
+# dateCreated = 
+dateCollected = 2025-02-20T23:44:19
+
+[translations.de]
+title = "\"Mir geht's gut\""
+text = '''
+Wenn ich sage
+"Mir geht's gut",
+
+hätte ich manchmal gerne jemanden, der mir in die Augen schaut, mich fest in den Arm nimmt und sagt:
+
+"Ich weiß, dass das nicht stimmt. Aber alles wird gut. Ich bin da."'''
+
+[translations.en]
+title = "\"I'm fine\""
+text = '''
+When I say
+"I'm fine",
+
+sometimes I wish someone would look me in the eyes, hold me tightly in their arms, and say:
+
+"I know that's not true. But everything will be okay. I'm here."'''

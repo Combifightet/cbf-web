@@ -1,0 +1,39 @@
+author = "Hayley Grace"
+source = "save me an orange"
+sourceType = "book"
+type = "poem"
+originalLanguage = "en"
+dateCreated = 2024-03-12
+dateCollected = 2024-09-23T23:08:46
+
+[translations.en]
+title = "I was never scared of dying"
+text = '''
+i was never scared of dying
+i actually thought about it quite often
+the thought of the world finally going quiet
+a null
+i was never scared of how life would carry on without me here
+maybe my dad would be confused
+my sister would propably take my room _(my closets a little bigger)_
+and my mom would stop buying oranges from the grocery store
+i was never scared of closing my eyes for one last time
+maybe the weight on my chest would go away and feeling of suffocation would fade
+i was never scared,
+until you asked me to stay'''
+
+[translations.de]
+title = "Ich hatte nie Angst vor dem Sterben"
+text = '''
+Ich hatte nie Angst vor dem Sterben.
+Eigentlich habe ich ziemlich oft darüber nachgedacht.
+Über den Gedanken, dass die Welt endlich still werden würde.
+Eine Nichts.
+Ich hatte nie Angst davor, wie das Leben ohne mich weitergehen würde.
+Vielleicht wäre mein Vater verwirrt.
+Meine Schwester würde wahrscheinlich mein Zimmer übernehmen _(mein Kleiderschrank ist ein bisschen größer)_.
+Und meine Mutter würde aufhören, Orangen im Supermarkt zu kaufen.
+Ich hatte nie Angst davor, meine Augen ein letztes Mal zu schließen.
+Vielleicht würde der Druck auf meiner Brust verschwinden und das Gefühl des Erstickens nachlassen.
+Ich hatte nie Angst,
+bis du mich gebeten hast zu bleiben'''

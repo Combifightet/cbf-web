@@ -1,0 +1,21 @@
+author = "Whitney Hanson"
+source = "Harmony"
+sourceType = "book"
+type = "poem"
+originalLanguage = "en"
+dateCreated = 2025-08-03
+dateCollected = 2025-03-17T18:50:35
+
+[translations.en]
+title = "I like being alone"
+text = '''
+i like being alone
+but that is why i knew you were different
+because for the first time ever
+i wanted someone else's company
+more than my own'''
+
+# [translations.de]
+# title = ""
+# text = '''
+# '''

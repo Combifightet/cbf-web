@@ -1,0 +1,21 @@
+author = ""
+source = "Doctor Who"
+sourceType = "tv"
+type = "quote"
+originalLanguage = "en"
+dateCreated = 2014-11-01
+dateCollected = 2024-12-16T18:51:19
+
+[translations.en]
+title = "Do you think I care so little"
+text = '''
+you betrayed everything that I've ever stood for.
+
+_Then why are you helping me?_
+
+Do you think I care for you so little, that betraying me would make a difference?'''
+
+# [translations.de]
+# title = ""
+# text = '''
+# '''

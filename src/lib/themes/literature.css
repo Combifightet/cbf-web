@@ -34,7 +34,7 @@
 body {
   --bg: #d6d6d8;
   --fg: #010101;
-  --paper_texture: url(../assets/quotes/seamless_paper_light.jpg);
+  --paper_texture: url(../assets/literature/seamless_paper_light.jpg);
 
   background-color: var(--bg);
   color: var(--fg);
@@ -49,7 +49,7 @@ body {
 body.dark{
   --bg: #08080a;
   --fg: #d6d6d8;
-  --paper_texture: url(../assets/quotes/seamless_paper_dark.jpg);
+  --paper_texture: url(../assets/literature/seamless_paper_dark.jpg);
 }
 
 

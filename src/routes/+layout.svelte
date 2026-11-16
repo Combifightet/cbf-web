@@ -11,7 +11,7 @@
   import homeTheme from '#lib/themes/home.css?url';
   import artTheme from '#lib/themes/art.css?url';
   import projectsTheme from '#lib/themes/projects.css?url';
-  import quotesTheme from '#lib/themes/quotes.css?url';
+  import literatureTheme from '#lib/themes/literature.css?url';
   import recepiesTheme from '#lib/themes/recepies.css?url';
 
   let { children }: LayoutProps = $props();
@@ -23,7 +23,7 @@
     const route = page.route.id ?? '/';
     if (route.startsWith('/art')) return artTheme;
     if (route.startsWith('/projects')) return projectsTheme;
-    if (route.startsWith('/quotes')) return quotesTheme;
+    if (route.startsWith('/literature')) return literatureTheme;
     if (route.startsWith('/recepies')) return recepiesTheme;
     return homeTheme;
   });
@@ -47,7 +47,7 @@
   <a href="/">home</a>
   <a href="/art">art</a>
   <a href="/projects">projects</a>
-  <a href="/quotes">quotes</a>
+  <a href="/literature">literature</a>
   <a href="/recepies">recepies</a>
 
   <button onclick={() => setLocale('en')}>en</button>

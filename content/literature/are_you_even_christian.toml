@@ -1,0 +1,34 @@
+author = ""
+source = ""
+sourceType = "tiktok"
+type = "other"
+originalLanguage = "en"
+# dateCreated =
+dateCollected = 2026-02-18T01:05:25
+
+[translations.en]
+title = "Are you even Christian?"
+text = '''
+_Are you even Christian?_
+
+I think so. I just don't agree with the church.
+
+Or the people.
+
+Or the Bible.
+
+_Or God._'''
+
+[translations.de]
+title = "Bist du überhaupt Christ?"
+text = '''
+_Bist du überhaupt Christ?_
+
+Ich denke schon. Ich stimme nur nicht mit der Kirche überein.
+
+Oder den Menschen.
+
+Oder der Bibel.
+
+_Oder Gott._
+'''

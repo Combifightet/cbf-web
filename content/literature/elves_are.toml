@@ -1,0 +1,37 @@
+author = "Terry Pratchett"
+source = "Lords and Ladies"
+sourceType = "book"
+type = "quote"
+originalLanguage = "en"
+dateCreated = 1992-11-01
+dateCollected = 2026-02-18T19:26:41
+
+[translations.en]
+title = "Elves are ..."
+text = '''
+Elves are Wonderful. They provoke wonder.
+Elves are marvellous. They cause marvels.
+Elves are fantastic. They create fantasies.
+Elves are glamorous. THey Project Glamour.
+Elves are enchanting. They weave enchantments.
+Elves are terrific. They beget Terror.
+
+The thing About words is that meaning can Twist just like a snake, and if you want to find snakes look for them behind words that have changed their meaning.
+
+No one ever said elves are _nice_.
+Elves are _bad_.'''
+
+[translations.de]
+title = "Elfen sind ..."
+text = '''
+Elfen sind wundervoll. Sie wecken Staunen.
+Elfen sind erstaunlich. Sie bringen Erstaunliches hervor.
+Elfen sind fantastisch. Sie erschaffen Fantasien.
+Elfen sind glamourös. Sie versprühen Glamour.
+Elfen sind bezaubernd. Sie wirken Zauber.
+Elfen sind furchterregend. Sie säen Schrecken.
+
+Das Tückische an Worten ist, dass sich ihre Bedeutung winden kann wie eine Schlange. Und wenn du Schlangen finden willst, dann suche hinter Worten, deren Bedeutung sich verändert hat.
+
+Niemand hat je behauptet, dass Elfen _nett_ sind.
+Elfen sind _böse_.'''

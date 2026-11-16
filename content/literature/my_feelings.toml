@@ -1,0 +1,19 @@
+author = "Jane Austen"
+source = "Sense and Sensibility"
+sourceType = "book"
+type = "quote"
+originalLanguage = "en"
+dateCreated = 1811-10-30
+dateCollected = 2024-12-14T22:04:13
+
+[translations.en]
+title = "My feelings"
+text = '''
+And sometimes I have kept my feelings to myself,
+because I could find no language to describe them in.'''
+
+[translations.de]
+title = "Meine Gefühle"
+text = '''
+Und manchmal habe ich meine Gefühle für mich behalten,
+weil ich keine Sprache fand, um sie zu beschreiben.'''

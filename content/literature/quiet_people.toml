@@ -1,0 +1,17 @@
+author = ""
+source = ""
+sourceType = ""
+type = "quote"
+originalLanguage = "en"
+# dateCreated = 
+dateCollected = 2024-03-20T00:24:02
+
+[translations.en]
+title = "Quiet people"
+text = '''
+I've always liked quiet people: You never know if the're dancing in a daydream or if they're carrying the weight of the world.'''
+
+# [translations.de]
+# title = ""
+# text = '''
+# '''

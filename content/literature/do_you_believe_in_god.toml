@@ -1,0 +1,31 @@
+author = ""
+source = ""
+sourceType = "tiktok"
+type = "other"
+originalLanguage = ""
+# dateCreated =
+dateCollected = 2026-02-18T01:07:20
+
+[translations.en]
+title = "Do you believe in god?"
+text = '''
+_do you believe in god?_
+
+no
+no but sometimes I ask for help
+no, but I wish I did
+no, but sometimes I lay on my bathroom floor begging god to give me a sign
+no, for if He was real, I wouldn't feel so hopeless
+no, but I wish I could'''
+
+[translations.de]
+title = "Glaubst du an Gott?"
+text = '''
+_glaubst du an Gott?_
+
+nein.
+nein, aber manchmal bitte ich um Hilfe
+nein, aber ich wünschte, ich würde es tun
+nein, aber manchmal liege ich auf dem Badezimmerboden und flehe Gott an, mir ein Zeichen zu geben
+nein, denn wenn Er wirklich existieren würde, würde ich mich nicht so hoffnungslos fühlen
+nein, aber ich wünschte, ich könnte es'''
