@@ -43,6 +43,7 @@ body {
 
   /* font-family: 'Monaspace Xenon', monospace; */
   font-family: 'Newsreader', Georgia, serif;
+
 }
 
 
@@ -54,7 +55,12 @@ body.dark{
 
 
 /* ink bleed effects */
-:where(h1, h2, h3, h4, h5, h6, p, li, blockquote, a, span, label, figcaption) {
+:where(h1, h2, h3, h4, h5, h6, p, li, blockquote, a, span, label, figcaption, svg) {
   filter: blur(0.35px);
   text-shadow: 0 0 1.2px currentColor;
 }
+
+/* for debugging */
+/* svg {
+  background-color: hotpink;
+} */
