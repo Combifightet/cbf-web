@@ -16,14 +16,14 @@
 /* TODO: sshould convert these fonts to woff2 for compression */
 @font-face {
   font-family: 'Newsreader';
-  src: url('/fonts/Newsreader-Variable.ttf') format('truetype');
+  src: url('../fonts/Newsreader-Variable.ttf') format('truetype');
   font-weight: 200 800;   /* the weight range enables the variable axis */
   font-style: normal;
   font-display: swap;
 }
 @font-face {
   font-family: 'Newsreader';
-  src: url('/fonts/Newsreader-Italic-Variable.ttf') format('truetype');
+  src: url('../fonts/Newsreader-Italic-Variable.ttf') format('truetype');
   font-weight: 200 800;
   font-style: italic;
   font-display: swap;
@@ -55,12 +55,41 @@ body.dark{
 
 
 /* ink bleed effects */
-:where(h1, h2, h3, h4, h5, h6, p, li, blockquote, a, span, label, figcaption, svg) {
+:where(h1, h2, h3, h4, h5, h6, p, li, blockquote, a, span, label, figcaption, button) {
   filter: blur(0.35px);
   text-shadow: 0 0 1.2px currentColor;
 }
 
-/* for debugging */
-/* svg {
-  background-color: hotpink;
-} */
+svg {
+  filter: blur(0.35px)
+  drop-shadow(0 0 1.2px currentColor);
+  display: block;
+
+  /* background-color: hotpink; */
+}
+
+
+
+button{
+  font-size: medium;
+  /* font-size: 130px; */
+  color: var(--fg);
+  background-color: transparent;
+
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  &:disabled{
+    cursor: default;
+  }
+  /* &:hover:not(:disabled){
+    transition: color 100ms;
+    color: color-mix(in srgb, var(--fg) 80%, var(--bg));
+  }
+  &:active:not(:disabled){
+    color: color-mix(in srgb, var(--fg) 70%, var(--bg));
+  }
+  &:focus-visible{
+    color: color-mix(in srgb, var(--fg) 70%, var(--bg));
+  } */
+}
