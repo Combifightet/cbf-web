@@ -58,14 +58,14 @@
       class=line-top
       d="M5 50 L95 50"
       stroke=currentColor
-      stroke-width=7
+      stroke-width=5
       stroke-linecap=round
     />
     <path
       class=line-bottom
       d="M5 50 L95 50"
       stroke=currentColor
-      stroke-width=7
+      stroke-width=5
       stroke-linecap=round
     />
     <path
@@ -73,7 +73,7 @@
       d="M73 25 Q81 48 95 50 Q81 52 73 75"
       fill=none
       stroke=currentColor
-      stroke-width=7
+      stroke-width=5
       stroke-linecap=round
       stroke-linejoin=round
     />
@@ -81,7 +81,7 @@
 {/snippet}
 
 
-<nav>
+<nav class="pagination">
   <button
     class="arrow-btn mirror"
     aria-label="previous"

@@ -50,7 +50,9 @@
   <a href="/literature">literature</a>
   <a href="/recepies">recepies</a>
 
-  <button onclick={() => setLocale('en')}>en</button>
+  <button onclick={() => setLocale('en')}>
+    <p>en</p>
+  </button>
 
   <button onclick={toggleThemeMode}>
     {isDark ? '☀️' : '🌙'}
